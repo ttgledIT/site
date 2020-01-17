@@ -5,8 +5,8 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-color: #fdf4e3;
+  background-image: url("img/back.png");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -25,7 +25,7 @@ body {
 .page-header .container,
 .page-footer .container {
   max-width: 1408px;
-  text-align: right;
+  text-align: center;
 }
 
 .page-header a {
@@ -53,7 +53,9 @@ body {
 .hero-image .container {
   max-width: 1408px;
   text-align: center;
+  
 }
+
 
 .heading {
   margin: 0 0 16px;
@@ -191,4 +193,17 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+.white
+{
+color: #FFFF
+}
+.orange
+{
+  color: #f0595e
+}
+.inst
+{
+  background-image: url("img/inst.png");
+  padding-top: 60px;
 }
